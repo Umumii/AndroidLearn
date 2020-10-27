@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreDemo</string>
+    <string name="teamA">TeamA</string>
+    <string name="teamB">TeamB</string>
+    <string name="scoreA">0</string>
+    <string name="add1">+1</string>
+    <string name="add2">+2</string>
+    <string name="add3">+3</string>
+    <string name="chehui">back</string>
+    <string name="refresh">刷新</string>
+</resources>

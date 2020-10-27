@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Serializable</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="line">-</string>
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+    <string name="math">Math</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+</resources>

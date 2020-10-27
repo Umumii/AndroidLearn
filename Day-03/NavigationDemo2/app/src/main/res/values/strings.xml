@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDemo2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="next">Next</string>
+    <string name="plzInputName">请输入名字</string>
+</resources>

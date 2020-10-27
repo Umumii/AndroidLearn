@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="add">+1</string>
+    <string name="reduce">-1</string>
+    <string name="dataKey">DATA_KEY</string>
+    <string name="shpName">SHP_NAME</string>
+</resources>

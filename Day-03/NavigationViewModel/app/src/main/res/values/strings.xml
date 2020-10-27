@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationViewModel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0</string>
+    <string name="enter">进入</string>
+    <string name="add">+1</string>
+    <string name="reduce">-1</string>
+    <string name="back">返回</string>
+</resources>

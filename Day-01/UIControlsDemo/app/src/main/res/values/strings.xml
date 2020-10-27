@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UIControlsDemo</string>
+    <string name="pause">暂停</string>
+    <string name="textview">content</string>
+    <string name="left">左</string>
+    <string name="right">右</string>
+    <string name="sure">确定</string>
+    <string name="value">进度值</string>
+    <string name="open">开关</string>
+    <string name="apple">苹果系统</string>
+    <string name="android">安卓系统</string>
+    <string name="loli">lolita</string>
+    <string name="jk">JK裙</string>
+    <string name="hanfu">汉服</string>
+</resources>

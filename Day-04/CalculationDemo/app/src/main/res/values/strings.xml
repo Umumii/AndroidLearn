@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CalculationDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_message">Calculation Test</string>
+    <string name="title_image_info">title image</string>
+    <string name="title_button_message">Enter</string>
+    <string name="high_score_message">High Score:%d</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="clean">C</string>
+    <string name="submit">OK</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="questionMark" translatable="false">\?</string>
+    <string name="current_score">Score:%d</string>
+    <string name="input_indicator">Input your answer</string>
+    <string name="loseImageMessage">You lose!</string>
+    <string name="winImageMessage">You win!</string>
+    <string name="loseMessage">You lose!</string>
+    <string name="winMessage">You win!</string>
+    <string name="loseScoreMessage">You score:%d</string>
+    <string name="winScoreMessage">New Record:%d</string>
+    <string name="back">Back</string>
+    <string name="answer_correct_message">Correct!Go on!</string>
+    <string name="quit_dialog_title">Are you sure to quit?</string>
+    <string name="dialog_position_message">OK</string>
+    <string name="dialog_negative_message">Cancel</string>
+    <string name="title_nav_message">Welcome</string>
+    <string name="question_nav_message">Testing</string>
+    <string name="win_nav_message">Win</string>
+    <string name="lose_nav_message">Lose</string>
+</resources>
